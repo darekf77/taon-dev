@@ -1,0 +1,42 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#999694",
+    "activityBar.foreground": "#000000",
+    "statusBar.background": "#999694"
+  },
+  "workbench.colorTheme": "Default Light+",
+  "files.exclude": {
+    "tsconfig.backend.dist.json": true,
+    "tsconfig.backend.bundle.json": true,
+    "tsconfig.backend.dist.json.filetemplate": true,
+    "tsconfig.backend.bundle.json.filetemplate": true,
+    "node_modules": true,
+    "tmp*": true,
+    "dist*": true,
+    "bundle*": true,
+    "browser": true,
+    "browser*": true,
+    "websql": true,
+    "websql*": true,
+    "module*": true,
+    "backup": true,
+    "module": true,
+    "www": true,
+    "Thumbs.db": true,
+    ".DS_Store": true,
+    "**/.DS_Store": true,
+    "npm-debug.log*": true,
+    ".sass-cache": true,
+    ".sourcemaps": true,
+    ".npmrc": true,
+    "tslint.json": true,
+    ".editorconfig": true,
+    ".gitignore": true,
+    ".npmignore": true,
+    ".babelrc": true,
+    "package.json_devDependencies.json": true,
+    "package.json": true,
+    "docs": true,
+    "logo.svg": true
+  }
+}

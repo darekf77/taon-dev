@@ -1,0 +1,59 @@
+{
+  "tnp": {
+    "resources": [],
+    "type": "container",
+    "version": "v3",
+    "overrided": {
+      "linkedFolders": [],
+      "ignoreDepsPattern": [
+        "*"
+      ],
+      "includeAsDev": [],
+      "includeOnly": [],
+      "dependencies": {}
+    },
+    "linkedProjects": [
+      "any-project-cli",
+      "lodash-walk-object",
+      "background-worker-process",
+      "morphi",
+      "firedev-crud-deamon",
+      "ng2-logger",
+      "firedev-crud",
+      "ng2-rest-swagger-generator",
+      "firedev-ports",
+      "ng2-rest",
+      "firedev-projects",
+      "tnp-cli",
+      "firedev-stor",
+      "tnp-config",
+      "firedev-storage",
+      "tnp-core",
+      "firedev-typeorm",
+      "tnp-db-plugin",
+      "firedev",
+      "tnp-db",
+      "incremental-compiler",
+      "tnp-helpers",
+      "isomorphic-region-loader",
+      "tnp-models",
+      "isomorphic-storage",
+      "tnp-tools",
+      "json10-writer",
+      "tnp",
+      "json10",
+      "typescript-class-helpers"
+    ],
+    "linkedRepos": [],
+    "libReleaseOptions": {
+      "nodts": false,
+      "obscure": false,
+      "ugly": false
+    },
+    "smartContainerBuildTarget": ""
+  },
+  "name": "firedev-io",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {}
+}
