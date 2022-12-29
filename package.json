@@ -19,7 +19,6 @@
       "firedev-crud",
       "firedev-crud-deamon",
       "firedev-ports",
-      "firedev-projects",
       "firedev-stor",
       "firedev-storage",
       "firedev-typeorm",
