@@ -23,7 +23,6 @@
       "firedev-typeorm",
       "incremental-compiler",
       "isomorphic-region-loader",
-      "isomorphic-storage",
       "json10",
       "json10-writer",
       "lodash-walk-object",
