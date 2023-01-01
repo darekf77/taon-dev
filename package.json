@@ -19,7 +19,6 @@
       "firedev-crud",
       "firedev-crud-deamon",
       "firedev-ports",
-      "firedev-stor",
       "firedev-storage",
       "firedev-typeorm",
       "incremental-compiler",
@@ -37,10 +36,8 @@
       "tnp-config",
       "tnp-core",
       "tnp-db",
-      "tnp-db-plugin",
       "tnp-helpers",
       "tnp-models",
-      "tnp-tools",
       "typescript-class-helpers"
     ],
     "linkedRepos": [],
