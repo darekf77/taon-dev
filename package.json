@@ -21,6 +21,7 @@
       "firedev-ports",
       "firedev-storage",
       "firedev-typeorm",
+      "firedev-ui",
       "incremental-compiler",
       "isomorphic-region-loader",
       "json10",
