@@ -48,6 +48,7 @@
       "ugly": false,
       "includeNodeModules": false
     },
+    "generateChangelog": true,
     "smartContainerBuildTarget": ""
   },
   "name": "firedev-io",
