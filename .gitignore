@@ -74,6 +74,7 @@ Thumbs.db
 /tnp-helpers
 /tnp-models
 /typescript-class-helpers
+/static-columns
 
 # =====================
 *.filetemplate
