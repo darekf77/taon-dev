@@ -32,6 +32,7 @@
       "morphi",
       "ng2-logger",
       "ng2-rest",
+      "static-columns",
       "tnp",
       "tnp-cli",
       "tnp-config",
