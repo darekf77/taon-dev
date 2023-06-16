@@ -21,6 +21,7 @@
       "firedev-crud-deamon",
       "firedev-ports",
       "firedev-storage",
+      "firedev-type-sql",
       "firedev-typeorm",
       "firedev-ui",
       "incremental-compiler",
