@@ -65,8 +65,12 @@ Thumbs.db
 /lodash-walk-object
 /magic-renamer
 /morphi
+/ng-talkback
 /ng2-logger
 /ng2-rest
+/ng2-rest-swagger-generator
+/node-cli-tester
+/record-replay-req-res-scenario
 /static-columns
 /tnp
 /tnp-cli
@@ -76,6 +80,7 @@ Thumbs.db
 /tnp-helpers
 /tnp-models
 /typescript-class-helpers
+/vpn-split
 
 # =====================
 *.filetemplate
