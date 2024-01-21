@@ -38,5 +38,10 @@
     ".babelrc": true,
     "package.json_devDependencies.json": true,
     "logo.svg": true
+  },
+  "search.exclude": {
+    "docs": true,
+    "projects": true,
+    "bin": true
   }
 }
