@@ -28,7 +28,7 @@
     "smartContainerBuildTarget": ""
   },
   "name": "firedev-io",
-  "version": "1.0.68",
+  "version": "1.0.69",
   "dependencies": {
     "@angular-builders/custom-webpack": "~16.0.2-beta.2",
     "@angular-devkit/build-angular": "~16.0.5",
