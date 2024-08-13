@@ -1,10 +1,12 @@
 {
   "resources": [],
   "type": "container",
-  "version": "v16",
+  "version": "v18",
   "overrided": {
     "linkedFolders": [],
-    "ignoreDepsPattern": ["*"],
+    "ignoreDepsPattern": [
+      "*"
+    ],
     "includeAsDev": [],
     "includeOnly": [],
     "dependencies": {},
