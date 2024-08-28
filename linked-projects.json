@@ -1,12 +1,12 @@
 {
     "projects": [
-        
+
         {
             "relativeClonePath": "taon",
             "repoUrl": "https://github.com/darekf77/taon.git",
             "deafultBranch": "master"
         },
-        
+
         {
             "relativeClonePath": "taon-simple-org",
             "repoUrl": "https://github.com/darekf77/taon-simple-org.git",
