@@ -49,7 +49,9 @@ Thumbs.db
 
 # LINKED PROJECTS
 /any-project-cli
+/taon
 /firedev
+/firedev*
 /firedev-crud
 /firedev-crud-deamon
 /firedev-ports
@@ -80,6 +82,7 @@ Thumbs.db
 /tnp-models
 /typescript-class-helpers
 /vpn-split
+/taon*
 
 # =====================
 !firedev.json

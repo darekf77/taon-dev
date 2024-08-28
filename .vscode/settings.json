@@ -85,5 +85,6 @@
   "tslint.autoFixOnSave": false,
   "tslint.enable": false,
   "tslint.alwaysShowRuleFailuresAsWarnings": false,
-  "prettier.endOfLine": "auto"
+  "prettier.endOfLine": "auto",
+  "git.ignoreLimitWarning": true
 }
