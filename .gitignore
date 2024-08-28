@@ -4,6 +4,7 @@ speed-measure-plugin*.json
 
 # misc
 /.sass-cache
+/**/tmp-*
 /connect.lock
 /coverage
 /libpeerconnection.log
@@ -12,6 +13,8 @@ yarn-error.log
 testem.log
 /typings
 app.hosts.ts
+/**/*._auto-generated_.ts
+/**/BUILD-INFO.md
 /linked-repos
 
 
@@ -43,23 +46,15 @@ Thumbs.db
 /npm-debug.log*
 /.sass-cache
 /.sourcemaps
-/tsconfig.backend.dist.json
 # container/workspace git projects
 # PREFIX
 
 # LINKED PROJECTS
-/any-project-cli
 /taon
-/firedev
-/firedev*
-/firedev-crud
-/firedev-crud-deamon
-/firedev-ports
-/firedev-simple-org
-/firedev-storage
-/firedev-type-sql
-/firedev-typeorm
-/firedev-ui
+/taon-simple-org
+/taon-storage
+/taon-type-sql
+/taon-typeorm
 /incremental-compiler
 /isomorphic-region-loader
 /json10
@@ -74,19 +69,15 @@ Thumbs.db
 /record-replay-req-res-scenario
 /static-columns
 /tnp
-/tnp-cli
 /tnp-config
 /tnp-core
-/tnp-db
 /tnp-helpers
 /tnp-models
 /typescript-class-helpers
 /vpn-split
-/taon*
 
 # =====================
-!firedev.json
-!firedev.jsonc
+!taon.jsonc
 *.filetemplate
 
 
