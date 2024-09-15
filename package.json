@@ -27,7 +27,7 @@
     "generateChangelog": true,
     "smartContainerBuildTarget": ""
   },
-  "name": "firedev-io",
+  "name": "taon-dev",
   "version": "18.0.17",
   "dependencies": {
     "@angular-builders/custom-webpack": "~18.0.0",
