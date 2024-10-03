@@ -28,7 +28,7 @@
     "smartContainerBuildTarget": ""
   },
   "name": "taon-dev",
-  "version": "18.0.17",
+  "version": "18.0.18",
   "dependencies": {
     "@angular-builders/custom-webpack": "~18.0.0",
     "@angular-devkit/build-angular": "~18.1.4",
@@ -234,6 +234,7 @@
     "ngx-ace-wrapper": "17.0.0",
     "ngx-editor": "17.5.4",
     "ngx-highlightjs": "12.0.0",
+    "ngx-infinite-scroll": "18.0.0",
     "ngx-moment": "6.0.2",
     "ngx-monaco-editor": "12.0.0",
     "ngx-photo-editor": "0.4.4",
@@ -315,6 +316,7 @@
     "typescript": "~5.5.4",
     "typescript-class-helpers": "~18.0.11",
     "typescript-formatter": "~7.2.2",
+    "typescript-string-enums": "~1.0.0",
     "underscore": "1.13.7",
     "uuid": "10.0.0",
     "validator": "13.5.2",
