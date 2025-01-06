@@ -4,18 +4,16 @@
     "activityBar.foreground": "#000000",
     "statusBar.background": "#999694"
   },
+
   "workbench.colorTheme": "Default Light+",
+
   "files.exclude": {
     "**/*____ORIGINAL____.ts": true,
     "_changelog": true,
-    "tsconfig.backend.dist.json": true,
-    "tsconfig.backend.dist.json.filetemplate": true,
     "**/node_modules": true,
     "**/tmp*": true,
     "**/dist*": true,
-    "**/bundle*": true,
     "**/browser": true,
-    "**/browser*": true,
     "**/websql": true,
     "**/websql*": true,
     "**/module*": true,
@@ -43,19 +41,23 @@
     "**/*.filetemplate": true,
     "**/tsconfig.*": true,
     "**/tslint.*": true,
-    "**/index.*": true,
+    "**/recent.json": true,
+    "**/angular.json": true,
     "**/webpack*": true,
     "**/run-*": true,
     "**/run.*": true,
     "**/package-lock.json": true,
     "**/protractor.conf.js": true,
     "**/karma.conf.js": true,
+    "**/docs-config.schema.json": true,
+    "**/index.js": true,
+    "**/index.d.ts": true,
+    "**/index.js.map": true,
     "recent.json": true,
     "angular.json": true
   },
+
   "search.exclude": {
-    "docs": true,
-    "projects": true,
     "bin": true,
     "local_release": true,
     "node_modules": true,
@@ -64,8 +66,9 @@
     "browser": true,
     "dist": true,
     "package-lock.json": true,
-    "**/docs": true,
-    "**/projects": true,
+    ".firedev": true,
+    ".taon": true,
+    ".tnp": true,
     "**/bin": true,
     "**/local_release": true,
     "**/node_modules": true,
@@ -73,44 +76,58 @@
     "**/.vscode": true,
     "**/browser": true,
     "**/dist": true,
-    "**/package-lock.json": true
+    "**/package-lock.json": true,
+    "**/.firedev": true,
+    "**/.taon": true,
+    "**/.tnp": true,
+    "projects": true
   },
+
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
+
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
+
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
+
   "[json5]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
+
   "[scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
+
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
+
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
+
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
+
   "editor.rulers": [
     80,
     120
   ],
+
   "eslint.migration.2_x": "off",
   "eslint.enable": true,
   "prettier.enable": true,
@@ -122,7 +139,15 @@
   "prettier.endOfLine": "auto",
   "git.ignoreLimitWarning": true,
   "search.useIgnoreFiles": false,
+
   "search.include": [
     "**/src/**"
-  ]
+  ],
+
+  "window.title": "projects/npm/taon-dev  [ ${activeEditorShort} ]",
+
+  "json.schemas": [{
+    "fileMatch": ["/docs-config.jsonc"],
+    "url": "./docs-config.schema.json"
+  }]
 }
