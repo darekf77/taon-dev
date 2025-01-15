@@ -4,9 +4,7 @@
     "activityBar.foreground": "#000000",
     "statusBar.background": "#999694"
   },
-
   "workbench.colorTheme": "Default Light+",
-
   "files.exclude": {
     "**/*____ORIGINAL____.ts": true,
     "_changelog": true,
@@ -56,7 +54,6 @@
     "recent.json": true,
     "angular.json": true
   },
-
   "search.exclude": {
     "bin": true,
     "local_release": true,
@@ -82,52 +79,42 @@
     "**/.tnp": true,
     "projects": true
   },
-
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
-
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
-
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
-
   "[json5]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
-
   "[scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
-
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
-
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
-
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": false
   },
-
   "editor.rulers": [
     80,
     120
   ],
-
   "eslint.migration.2_x": "off",
   "eslint.enable": true,
   "prettier.enable": true,
@@ -139,15 +126,16 @@
   "prettier.endOfLine": "auto",
   "git.ignoreLimitWarning": true,
   "search.useIgnoreFiles": false,
-
   "search.include": [
     "**/src/**"
   ],
-
   "window.title": "projects/npm/taon-dev  [ ${activeEditorShort} ]",
-
-  "json.schemas": [{
-    "fileMatch": ["/docs-config.jsonc"],
-    "url": "./docs-config.schema.json"
-  }]
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "/docs-config.jsonc"
+      ],
+      "url": "./docs-config.schema.json"
+    }
+  ]
 }
