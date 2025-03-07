@@ -2,6 +2,7 @@
   "resources": [],
   "type": "container",
   "version": "v18",
+
   "overrided": {
     "linkedFolders": [],
     "ignoreDepsPattern": [
@@ -12,7 +13,9 @@
     "dependencies": {},
     "npmFixes": []
   },
+
   "linkedRepos": [],
+
   "libReleaseOptions": {
     "nodts": false,
     "obscure": false,
@@ -23,6 +26,8 @@
     "cliBuildIncludeNodeModules": false,
     "cliBuildUglify": false
   },
+
   "generateChangelog": true,
-  "smartContainerBuildTarget": ""
+  "smartContainerBuildTarget": "",
+  "packageJsonOverride": {}
 }

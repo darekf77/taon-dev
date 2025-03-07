@@ -25,7 +25,8 @@
       "cliBuildUglify": false
     },
     "generateChangelog": true,
-    "smartContainerBuildTarget": ""
+    "smartContainerBuildTarget": "",
+    "packageJsonOverride": {}
   },
   "name": "taon-dev",
   "version": "18.0.29",
