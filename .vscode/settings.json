@@ -130,12 +130,13 @@
     "**/src/**"
   ],
   "window.title": "projects/npm/taon-dev  [ ${activeEditorShort} ]",
-  "json.schemas": [
-    {
-      "fileMatch": [
-        "/docs-config.jsonc"
-      ],
-      "url": "./docs-config.schema.json"
-    }
-  ]
+  "json.schemas": [{
+    "fileMatch": [
+      "/docs-config.jsonc"
+    ],
+    "url": "./docs-config.schema.json"
+  }, {
+    "fileMatch": ["/taon.jsonc"],
+    "url": "./taon-config-container.schema.json"
+  }]
 }
