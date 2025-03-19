@@ -1,33 +1,11 @@
 {
-  "resources": [],
   "type": "container",
   "version": "v18",
-
-  "overrided": {
-    "linkedFolders": [],
-    "ignoreDepsPattern": [
-      "*"
-    ],
-    "includeAsDev": [],
-    "includeOnly": [],
-    "dependencies": {},
-    "npmFixes": []
-  },
-
-  "linkedRepos": [],
-
-  "libReleaseOptions": {
-    "nodts": false,
-    "obscure": false,
-    "ugly": false,
-    "includeNodeModules": false,
-    "cliBuildNoDts": false,
-    "cliBuildObscure": false,
-    "cliBuildIncludeNodeModules": false,
-    "cliBuildUglify": false
-  },
-
+  "dependenciesNamesForNpmLib": [],
   "generateChangelog": true,
+  "resources": [],
   "smartContainerBuildTarget": "",
-  "packageJsonOverride": {}
+  "packageJsonOverride": {
+    "author": "Dariusz Filipiak"
+  }
 }
