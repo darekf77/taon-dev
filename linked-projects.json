@@ -4,128 +4,128 @@
         {
             "relativeClonePath": "taon",
             "repoUrl": "https://github.com/darekf77/taon.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
 
         {
             "relativeClonePath": "taon-simple-org",
             "repoUrl": "https://github.com/darekf77/taon-simple-org.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "taon-storage",
             "repoUrl": "https://github.com/darekf77/taon-storage.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "taon-type-sql",
             "repoUrl": "https://github.com/darekf77/taon-type-sql.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "taon-typeorm",
             "repoUrl": "https://github.com/darekf77/taon-typeorm.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "incremental-compiler",
             "repoUrl": "https://github.com/darekf77/incremental-compiler.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "isomorphic-region-loader",
             "repoUrl": "https://github.com/darekf77/isomorphic-region-loader.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "json10",
             "repoUrl": "https://github.com/darekf77/json10.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "json10-writer",
             "repoUrl": "https://github.com/darekf77/json10-writer.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "lodash-walk-object",
             "repoUrl": "https://github.com/darekf77/lodash-walk-object.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "magic-renamer",
             "repoUrl": "https://github.com/darekf77/magic-renamer.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "ng-talkback",
             "repoUrl": "https://github.com/darekf77/ng-talkback.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "ng2-logger",
             "repoUrl": "https://github.com/darekf77/ng2-logger.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "ng2-rest",
             "repoUrl": "https://github.com/darekf77/ng2-rest.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "ng2-rest-swagger-generator",
             "repoUrl": "https://github.com/darekf77/ng2-rest-swagger-generator.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "node-cli-tester",
             "repoUrl": "https://github.com/darekf77/node-cli-tester.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "record-replay-req-res-scenario",
             "repoUrl": "https://github.com/darekf77/record-replay-req-res-scenario.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "static-columns",
             "repoUrl": "https://github.com/darekf77/static-columns.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "tnp",
             "repoUrl": "https://github.com/darekf77/tnp.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "tnp-config",
             "repoUrl": "https://github.com/darekf77/tnp-config.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "tnp-core",
             "repoUrl": "https://github.com/darekf77/tnp-core.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "tnp-helpers",
             "repoUrl": "https://github.com/darekf77/tnp-helpers.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "tnp-models",
             "repoUrl": "https://github.com/darekf77/tnp-models.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "typescript-class-helpers",
             "repoUrl": "https://github.com/darekf77/typescript-class-helpers.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         },
         {
             "relativeClonePath": "vpn-split",
             "repoUrl": "https://github.com/darekf77/vpn-split.git",
-            "deafultBranch": "master"
+            "defaultBranch": "master"
         }
     ]
 }
