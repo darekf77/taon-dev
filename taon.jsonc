@@ -1,9 +1,9 @@
 {
+  "resources": [],
   "type": "container",
   "version": "v18",
   "dependenciesNamesForNpmLib": [],
   "generateChangelog": true,
-  "resources": [],
   "smartContainerBuildTarget": "",
   "packageJsonOverride": {
     "author": "Dariusz Filipiak"

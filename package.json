@@ -1,4 +1,15 @@
 {
+  "tnp": {
+    "resources": [],
+    "type": "container",
+    "version": "v18",
+    "dependenciesNamesForNpmLib": [],
+    "generateChangelog": true,
+    "smartContainerBuildTarget": "",
+    "packageJsonOverride": {
+      "author": "Dariusz Filipiak"
+    }
+  },
   "name": "taon-dev",
   "version": "18.0.29",
   "author": "Dariusz Filipiak",
