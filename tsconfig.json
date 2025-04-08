@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext",
+      "strictNullChecks": false,
+      "rootDir": "./",
+      "paths": {}
+    },
+    "include": [
+      "environments/**/*.ts",
+      "env.ts"
+    ]
+  }

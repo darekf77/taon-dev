@@ -134,13 +134,13 @@
   "search.include": [
     "**/src/**"
   ],
-  "window.title": "dfilipiak/npm/taon-dev  [ ${activeEditorShort} ]",
+  "window.title": "projects/npm/taon-dev  [ ${activeEditorShort} ]",
   "json.schemas": [
     {
       "fileMatch": [
-        "/taon.jsonc"
+        "/docs-config.jsonc"
       ],
-      "url": "./taon-config-container.schema.json"
+      "url": "./docs-config.schema.json"
     },
     {
       "fileMatch": [

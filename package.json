@@ -1,15 +1,4 @@
 {
-  "tnp": {
-    "resources": [],
-    "type": "container",
-    "version": "v18",
-    "dependenciesNamesForNpmLib": [],
-    "generateChangelog": true,
-    "smartContainerBuildTarget": "",
-    "packageJsonOverride": {
-      "author": "Dariusz Filipiak"
-    }
-  },
   "name": "taon-dev",
   "version": "18.0.29",
   "author": "Dariusz Filipiak",
@@ -157,6 +146,7 @@
     "express": "~4.19.2",
     "express-fileupload": "~1.4.0",
     "express-session": "~1.18.0",
+    "fast-glob": "~3.3.2",
     "file-loader": "~1.1.11",
     "file-saver": "2.0.5",
     "file-type": "~19.1.1",
@@ -325,5 +315,6 @@
     "webpack-dev-server": "~5.0.4",
     "yup": "~1.3.3",
     "zone.js": "~0.13.0"
-  }
+  },
+  "bin": {}
 }
