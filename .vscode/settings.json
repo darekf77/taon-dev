@@ -39,6 +39,9 @@
     "**/devDependencies.json": true,
     "**/package.json": true,
     "**/logo.svg": true,
+    ".firedev": true,
+    ".taon": true,
+    ".tnp": true,
     "**/*.filetemplate": true,
     "**/tsconfig.*": true,
     "**/tslint.*": true,
@@ -134,7 +137,7 @@
   "search.include": [
     "**/src/**"
   ],
-  "window.title": "projects/npm/taon-dev  [ ${activeEditorShort} ]",
+  "window.title": "dfilipiak/npm/taon-dev  [ ${activeEditorShort} ]",
   "json.schemas": [
     {
       "fileMatch": [
