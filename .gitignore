@@ -80,6 +80,8 @@ Thumbs.db
 /tnp-models
 /typescript-class-helpers
 /vpn-split
+/taon-electron-app
+/taon-ui
 
 # =====================
 !taon.jsonc
