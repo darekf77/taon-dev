@@ -159,6 +159,11 @@
       "repoUrl": "git@github.com:darekf77/taon-ui.git",
       "defaultBranch": "master",
       "relativeClonePath": "taon-ui"
+    },
+    {
+      "repoUrl": "git@github.com:darekf77/taon-containers.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "taon-containers"
     }
   ]
 }

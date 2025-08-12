@@ -82,6 +82,7 @@ Thumbs.db
 /vpn-split
 /taon-electron-app
 /taon-ui
+/taon-containers
 
 # =====================
 !taon.jsonc
