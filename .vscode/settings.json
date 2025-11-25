@@ -86,7 +86,9 @@
     "dist-*": true,
     "src/lib/env/**/*.*": true,
     "**/dist-*": true,
-    "**/src/lib/env/**/*.*": true
+    "**/src/lib/env/**/*.*": true,
+    "*.rest": true,
+    "**/*.rest": true
   },
 
   "[typescriptreact]": {
@@ -150,7 +152,7 @@
     "**/src/**"
   ],
 
-  "window.title": "projects/npm/taon-dev  [ ${activeEditorShort} ]",
+  "window.title": "dfilipiak/npm/taon-dev  [ ${activeEditorShort} ]",
 
   "json.schemas": [
     {
