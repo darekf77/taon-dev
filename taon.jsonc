@@ -2,6 +2,10 @@
   "type": "container",
   "version": "v19",
   "appId": "com.domain.example.taon-dev",
+  "removeAfterPullingFromGit": [
+    "tnp-config"
+  ],
+
   "resources": [],
 
   "packageJsonOverride": {

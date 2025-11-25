@@ -4,7 +4,6 @@ container for all core taon related projects
 
 ```sh
 ├── tnp-core 
-├── tnp-config 
 ├── ng2-logger # nice logger solution for backend and frontend (@TODO dumping logs)
 └── typescript-class-helpers # class names based OOP
 ├── json10-writer
