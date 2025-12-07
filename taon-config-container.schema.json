@@ -5323,9 +5323,9 @@
           },
           "description": "Static resurces for site project, that are going to be included in release dist"
         },
-        "createTagDuringRelease": {
+        "createOnlyTagWhenRelease": {
           "type": "boolean",
-          "description": "TODO"
+          "description": "Don't release inside children -> only tag the version"
         },
         "monorepo": {
           "type": "boolean",
