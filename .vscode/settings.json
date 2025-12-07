@@ -152,7 +152,7 @@
     "**/src/**"
   ],
 
-  "window.title": "projects/npm/taon-dev  [ ${activeEditorShort} ]",
+  "window.title": "dfilipiak/npm/taon-dev  [ ${activeEditorShort} ]",
 
   "json.schemas": [
     {
