@@ -121,11 +121,6 @@
       "relativeClonePath": "tnp-helpers"
     },
     {
-      "repoUrl": "https://github.com/darekf77/tnp-models.git",
-      "defaultBranch": "master",
-      "relativeClonePath": "tnp-models"
-    },
-    {
       "repoUrl": "https://github.com/darekf77/typescript-class-helpers.git",
       "defaultBranch": "master",
       "relativeClonePath": "typescript-class-helpers"
