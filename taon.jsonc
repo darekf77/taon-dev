@@ -5,15 +5,15 @@
   "removeAfterPullingFromGit": ["tnp-config", "tnp-models"],
 
   "overridePackagesOrder": [
+    "taon-type-sql",
+    "typescript-class-helpers",
+    "taon-typeorm",
     "tnp-helpers",
     "isomorphic-region-loader",
-    "typescript-class-helpers",
     "lodash-walk-object",
     "json10",
     "ng2-rest",
     "tnp",
-    "taon-type-sql",
-    "taon-typeorm",
     "taon",
   ],
 
