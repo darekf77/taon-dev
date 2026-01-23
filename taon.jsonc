@@ -2,9 +2,19 @@
   "type": "container",
   "version": "v21",
   "appId": "com.domain.example.taon-dev",
-  "removeAfterPullingFromGit": [
-    "tnp-config",
-    "tnp-models"
+  "removeAfterPullingFromGit": ["tnp-config", "tnp-models"],
+
+  "overridePackagesOrder": [
+    "tnp-helpers",
+    "isomorphic-region-loader",
+    "typescript-class-helpers",
+    "lodash-walk-object",
+    "json10",
+    "ng2-rest",
+    "tnp",
+    "taon-type-sql",
+    "taon-typeorm",
+    "taon",
   ],
 
   "resources": [],
@@ -12,6 +22,6 @@
   "packageJsonOverride": {
     "author": "Dariusz Filipiak",
     "description": "Description for taon-dev. Hello world!",
-    "scripts": {}
-  }
+    "scripts": {},
+  },
 }
