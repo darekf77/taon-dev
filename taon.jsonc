@@ -2,8 +2,6 @@
   "type": "container",
   "version": "v21",
   "appId": "com.domain.example.taon-dev",
-  "removeAfterPullingFromGit": ["tnp-config", "tnp-models"],
-
   "overridePackagesOrder": [
     "taon-type-sql",
     "typescript-class-helpers",
@@ -16,6 +14,8 @@
     "isomorphic-region-loader",
     "tnp",
   ],
+
+  "removeAfterPullingFromGit": ["tnp-config", "tnp-models"],
 
   "resources": [],
 
