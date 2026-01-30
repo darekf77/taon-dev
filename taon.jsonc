@@ -15,7 +15,7 @@
     "tnp",
   ],
 
-  "removeAfterPullingFromGit": ["tnp-config", "tnp-models"],
+  "removeAfterPullingFromGit": ["tnp-config", "tnp-models","json10-writer"],
 
   "resources": [],
 

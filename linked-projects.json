@@ -16,11 +16,6 @@
       "relativeClonePath": "json10"
     },
     {
-      "repoUrl": "https://github.com/darekf77/json10-writer.git",
-      "defaultBranch": "master",
-      "relativeClonePath": "json10-writer"
-    },
-    {
       "repoUrl": "https://github.com/darekf77/lodash-walk-object.git",
       "defaultBranch": "master",
       "relativeClonePath": "lodash-walk-object"

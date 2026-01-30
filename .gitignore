@@ -26,7 +26,6 @@
 /incremental-compiler
 /isomorphic-region-loader
 /json10
-/json10-writer
 /libpeerconnection.log
 /local_release
 /lodash-walk-object
