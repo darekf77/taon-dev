@@ -15,7 +15,7 @@
     "tnp",
   ],
 
-  "removeAfterPullingFromGit": ["tnp-config", "tnp-models","json10-writer"],
+  "removeAfterPullingFromGit": ["tnp-config", "tnp-models","json10-writer","taon-electron-app"],
 
   "resources": [],
 

@@ -71,11 +71,6 @@
       "relativeClonePath": "taon-containers"
     },
     {
-      "repoUrl": "https://github.com/darekf77/taon-electron-app.git",
-      "defaultBranch": "master",
-      "relativeClonePath": "taon-electron-app"
-    },
-    {
       "repoUrl": "https://github.com/darekf77/taon-simple-org.git",
       "defaultBranch": "master",
       "relativeClonePath": "taon-simple-org"
