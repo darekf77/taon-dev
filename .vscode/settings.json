@@ -41,6 +41,10 @@
     "**/tmp-*": true,
     "dist*": true,
     "**/dist*": true,
+    ".tnp": true,
+    "**/.tnp": true,
+    ".taon": true,
+    "**/.taon": true,
     "tsconfig*": true,
     "**/tsconfig*": true,
     "*.schema.json": true,
@@ -57,6 +61,8 @@
     "**/index.js.map": true,
     "index.d.ts": true,
     "**/index.d.ts": true,
+    "vitest.config.ts": true,
+    "**/vitest.config.ts": true,
     ".gitignore": true,
     "**/.gitignore": true,
     ".npmignore": true,
@@ -71,9 +77,10 @@
     "**/update-vscode-package-json.js": true,
     ".editorconfig": true,
     "**/.editorconfig": true,
+    "package.json": true,
+    "**/package.json": true,
     "*.filetemplate": true,
     "**/*.filetemplate": true,
-    "package.json": true,
     ".babelrc": true,
     "eslint.config.js": true,
     "protractor.conf.js": true,
@@ -87,7 +94,8 @@
     ".idea": true,
     "webpack.*": true,
     ".eslintrc*": true,
-    "tslint.*": true
+    "tslint.*": true,
+    "!templates-subprojects/**/package.json": true
   },
 
   "search.exclude": {
@@ -186,7 +194,7 @@
     "**/src/**"
   ],
 
-  "window.title": "projects/npm/taon-dev  [ ${activeEditorShort} ]",
+  "window.title": "npm/taon-dev () [ ${activeEditorShort}]",
 
   "json.schemas": [
     {

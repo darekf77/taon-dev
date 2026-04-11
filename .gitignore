@@ -45,9 +45,11 @@
 /browser
 /BUILD-INFO.md
 /chrome-profiler-events*.json
+/cloud
 /connect.lock
 /coverage
-/databases/*.sqlite
+/databases/**/*.json
+/databases/**/*.sqlite
 /dist
 /dist-nocutsrc
 /dist-nocutsrc-prod
@@ -79,6 +81,7 @@
 /record-replay-req-res-scenario
 /routes/*.rest
 /run.js
+/session
 /speed-measure-plugin*.json
 /src/app.auto-gen-docs.md
 /src/app.auto-gen-ver.js

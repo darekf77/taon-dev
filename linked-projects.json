@@ -1,6 +1,11 @@
 {
   "projects": [
     {
+      "repoUrl": "https://github.com/taon-dev/cloud.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "cloud"
+    },
+    {
       "repoUrl": "https://github.com/darekf77/incremental-compiler.git",
       "defaultBranch": "master",
       "relativeClonePath": "incremental-compiler"
@@ -54,6 +59,11 @@
       "repoUrl": "https://github.com/darekf77/record-replay-req-res-scenario.git",
       "defaultBranch": "master",
       "relativeClonePath": "record-replay-req-res-scenario"
+    },
+    {
+      "repoUrl": "https://github.com/taon-dev/session.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "session"
     },
     {
       "repoUrl": "https://github.com/darekf77/static-columns.git",
