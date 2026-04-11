@@ -12,10 +12,17 @@
     "taon",
     "tnp-helpers",
     "isomorphic-region-loader",
+    "cloud",
+    "session",
     "tnp",
   ],
 
-  "removeAfterPullingFromGit": ["tnp-config", "tnp-models","json10-writer","taon-electron-app"],
+  "removeAfterPullingFromGit": [
+    "tnp-config",
+    "tnp-models",
+    "json10-writer",
+    "taon-electron-app",
+  ],
 
   "resources": [],
 
