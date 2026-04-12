@@ -3,6 +3,7 @@
   "version": "v21",
   "appId": "com.domain.example.taon-dev",
   "overridePackagesOrder": [
+    "tnp-core",
     "taon-type-sql",
     "typescript-class-helpers",
     "taon-typeorm",
