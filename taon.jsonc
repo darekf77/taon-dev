@@ -13,8 +13,8 @@
     "taon",
     "tnp-helpers",
     "isomorphic-region-loader",
-    "cloud",
-    "session",
+    "@taon-dev/cloud",
+    "@taon-dev/session",
     "tnp",
   ],
 
