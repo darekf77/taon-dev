@@ -130,7 +130,9 @@
     "**/src/lib/env/**/*.*": true,
     "*.rest": true,
     "**/*.rest": true,
-    "**/tmp-*": true
+    "**/tmp-*": true,
+    "src/app.auto-gen-docs.md": true,
+    "src/app.auto-gen-ver.js": true
   },
 
   "[typescriptreact]": {

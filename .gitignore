@@ -42,8 +42,10 @@
 /**/vitest.config.ts
 /**/webpack*
 /**/websql
+/api-workers
 /browser
 /BUILD-INFO.md
+/BUILD-STATUS.md
 /chrome-profiler-events*.json
 /cloud
 /connect.lock

@@ -15,6 +15,7 @@
     "isomorphic-region-loader",
     "@taon-dev/cloud",
     "@taon-dev/session",
+    "@taon-dev/api-workers",
     "tnp",
   ],
 

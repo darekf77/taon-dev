@@ -129,6 +129,11 @@
       "repoUrl": "https://github.com/darekf77/vpn-split.git",
       "defaultBranch": "master",
       "relativeClonePath": "vpn-split"
+    },
+    {
+      "repoUrl": "https://github.com/taon-dev/api-workers.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "api-workers"
     }
   ]
 }
