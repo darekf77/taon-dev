@@ -134,6 +134,11 @@
       "repoUrl": "https://github.com/taon-dev/api-workers.git",
       "defaultBranch": "master",
       "relativeClonePath": "api-workers"
+    },
+    {
+      "repoUrl": "git@github.com:darekf77/i18n.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "i18n"
     }
   ]
 }

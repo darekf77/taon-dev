@@ -60,6 +60,7 @@
 /docs-config.schema.json
 /eslint-rules
 /eslint*
+/i18n
 /incremental-compiler
 /index.d.ts
 /index.js
