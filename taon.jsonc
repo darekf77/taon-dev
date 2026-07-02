@@ -4,6 +4,7 @@
   "appId": "com.domain.example.taon-dev",
   "overridePackagesOrder": [
     "tnp-core",
+    "@taon-dev/i18n",
     "taon-type-sql",
     "typescript-class-helpers",
     "taon-typeorm",
