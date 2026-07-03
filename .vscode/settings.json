@@ -6,7 +6,7 @@
     "statusBar.debuggingBackground": "#15d8ff"
   },
 
-  "workbench.colorTheme": "Default Light+",
+  "workbench.colorTheme": "Light+",
 
   "files.exclude": {
     "_changelog": true,
