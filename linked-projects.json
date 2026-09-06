@@ -148,7 +148,12 @@
     {
       "defaultBranch": "master",
       "relativeClonePath": "core-docs",
-      "repoUrl": "git@github.com:darekf77/core-docs.git"
+      "repoUrl": "https://github.com/taon-dev/core-docs.git"
+    },
+    {
+      "defaultBranch": "master",
+      "relativeClonePath": "emails",
+      "repoUrl": "https://github.com/taon-dev/emails.git"
     }
   ]
 }

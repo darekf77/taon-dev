@@ -59,6 +59,7 @@
 /dist-prod
 /dist*
 /docs-config.schema.json
+/emails
 /eslint-rules
 /eslint*
 /i18n
