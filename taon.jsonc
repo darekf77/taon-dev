@@ -12,6 +12,7 @@
     "json10",
     "ng2-rest",
     "taon",
+    "incremental-compiler",
     "tnp-helpers",
     "isomorphic-region-loader",
     "@taon-dev/session",
