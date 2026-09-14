@@ -5,6 +5,8 @@
   "overridePackagesOrder": [
     "tnp-core",
     "@taon-dev/i18n",
+    "ng2-logger",
+    "magic-renamer",
     "taon-type-sql",
     "typescript-class-helpers",
     "taon-typeorm",
@@ -17,8 +19,14 @@
     "isomorphic-region-loader",
     "@taon-dev/session",
     "@taon-dev/cloud",
-    "@taon-dev/api-workers",
     "tnp",
+    "taon-storage",
+    "static-columns",
+    "taon-ui",
+    "@taon-dev/core-docs",
+    "@taon-dev/emails",
+    "@taon-dev/vscode-plugin",
+    "@taon-dev/api-workers",
   ],
 
   "removeAfterPullingFromGit": [
