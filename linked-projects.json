@@ -154,6 +154,16 @@
       "defaultBranch": "master",
       "relativeClonePath": "emails",
       "repoUrl": "https://github.com/taon-dev/emails.git"
+    },
+    {
+      "defaultBranch": "master",
+      "relativeClonePath": "stripe",
+      "repoUrl": "git@github.com:darekf77/stripe.git"
+    },
+    {
+      "defaultBranch": "master",
+      "relativeClonePath": "cms",
+      "repoUrl": "git@github.com:darekf77/cms.git"
     }
   ]
 }
