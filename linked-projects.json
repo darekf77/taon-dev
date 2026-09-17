@@ -11,6 +11,26 @@
       "relativeClonePath": "cloud"
     },
     {
+      "repoUrl": "https://github.com/taon-dev/cms.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "cms"
+    },
+    {
+      "repoUrl": "https://github.com/taon-dev/core-docs.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "core-docs"
+    },
+    {
+      "repoUrl": "https://github.com/taon-dev/e-commerce.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "e-commerce"
+    },
+    {
+      "repoUrl": "https://github.com/taon-dev/emails.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "emails"
+    },
+    {
       "repoUrl": "https://github.com/taon-dev/i18n.git",
       "defaultBranch": "master",
       "relativeClonePath": "i18n"
@@ -144,26 +164,6 @@
       "repoUrl": "https://github.com/taon-dev/vscode-plugin.git",
       "defaultBranch": "master",
       "relativeClonePath": "vscode-plugin"
-    },
-    {
-      "defaultBranch": "master",
-      "relativeClonePath": "core-docs",
-      "repoUrl": "https://github.com/taon-dev/core-docs.git"
-    },
-    {
-      "defaultBranch": "master",
-      "relativeClonePath": "emails",
-      "repoUrl": "https://github.com/taon-dev/emails.git"
-    },
-    {
-      "defaultBranch": "master",
-      "relativeClonePath": "stripe",
-      "repoUrl": "git@github.com:darekf77/stripe.git"
-    },
-    {
-      "defaultBranch": "master",
-      "relativeClonePath": "cms",
-      "repoUrl": "git@github.com:darekf77/cms.git"
     }
   ]
 }

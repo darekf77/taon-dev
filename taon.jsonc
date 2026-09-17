@@ -27,6 +27,8 @@
     "@taon-dev/emails",
     "@taon-dev/vscode-plugin",
     "@taon-dev/api-workers",
+    "@taon-dev/e-commerce",
+    "@taon-dev/cms",
   ],
 
   "removeAfterPullingFromGit": [

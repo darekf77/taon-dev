@@ -63,6 +63,7 @@
 /dist-prod
 /dist*
 /docs-config.schema.json
+/e-commerce
 /emails
 /eslint-rules
 /eslint*
@@ -104,7 +105,6 @@
 /src/tests/tests-folder-info.md
 /src/vars.scss
 /static-columns
-/stripe
 /taon
 /taon-containers
 /taon-simple-org
