@@ -169,6 +169,11 @@
       "defaultBranch": "master",
       "relativeClonePath": "analytics",
       "repoUrl": "git@github.com:darekf77/analytics.git"
+    },
+    {
+      "defaultBranch": "master",
+      "relativeClonePath": "ui",
+      "repoUrl": "git@github.com:darekf77/ui.git"
     }
   ]
 }

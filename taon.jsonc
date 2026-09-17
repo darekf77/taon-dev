@@ -23,6 +23,7 @@
     "taon-storage",
     "static-columns",
     "taon-ui",
+    "@taon-dev/ui",
     "@taon-dev/core-docs",
     "@taon-dev/emails",
     "@taon-dev/vscode-plugin",
