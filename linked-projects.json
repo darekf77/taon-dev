@@ -164,6 +164,11 @@
       "repoUrl": "https://github.com/taon-dev/vscode-plugin.git",
       "defaultBranch": "master",
       "relativeClonePath": "vscode-plugin"
+    },
+    {
+      "defaultBranch": "master",
+      "relativeClonePath": "analytics",
+      "repoUrl": "git@github.com:darekf77/analytics.git"
     }
   ]
 }
