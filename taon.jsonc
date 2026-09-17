@@ -29,6 +29,7 @@
     "@taon-dev/api-workers",
     "@taon-dev/e-commerce",
     "@taon-dev/cms",
+    "@taon-dev/analytics",
   ],
 
   "removeAfterPullingFromGit": [
