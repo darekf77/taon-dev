@@ -11,6 +11,11 @@
       "relativeClonePath": "api-workers"
     },
     {
+      "repoUrl": "https://github.com/taon-dev/baseline.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "baseline"
+    },
+    {
       "repoUrl": "https://github.com/taon-dev/cloud.git",
       "defaultBranch": "master",
       "relativeClonePath": "cloud"
@@ -174,11 +179,6 @@
       "repoUrl": "https://github.com/taon-dev/vscode-plugin.git",
       "defaultBranch": "master",
       "relativeClonePath": "vscode-plugin"
-    },
-    {
-      "defaultBranch": "master",
-      "relativeClonePath": "baseline",
-      "repoUrl": "git@github.com:darekf77/baseline.git"
     }
   ]
 }
