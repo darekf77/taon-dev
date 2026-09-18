@@ -1,6 +1,11 @@
 {
   "projects": [
     {
+      "repoUrl": "https://github.com/taon-dev/analytics.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "analytics"
+    },
+    {
       "repoUrl": "https://github.com/taon-dev/api-workers.git",
       "defaultBranch": "master",
       "relativeClonePath": "api-workers"
@@ -156,6 +161,11 @@
       "relativeClonePath": "typescript-class-helpers"
     },
     {
+      "repoUrl": "https://github.com/taon-dev/ui.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "ui"
+    },
+    {
       "repoUrl": "https://github.com/darekf77/vpn-split.git",
       "defaultBranch": "master",
       "relativeClonePath": "vpn-split"
@@ -164,16 +174,6 @@
       "repoUrl": "https://github.com/taon-dev/vscode-plugin.git",
       "defaultBranch": "master",
       "relativeClonePath": "vscode-plugin"
-    },
-    {
-      "defaultBranch": "master",
-      "relativeClonePath": "analytics",
-      "repoUrl": "git@github.com:darekf77/analytics.git"
-    },
-    {
-      "defaultBranch": "master",
-      "relativeClonePath": "ui",
-      "repoUrl": "git@github.com:darekf77/ui.git"
     }
   ]
 }
