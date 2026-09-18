@@ -31,6 +31,7 @@
     "@taon-dev/e-commerce",
     "@taon-dev/cms",
     "@taon-dev/analytics",
+    "@taon-dev/baseline",
   ],
 
   "removeAfterPullingFromGit": [
