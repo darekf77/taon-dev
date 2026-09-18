@@ -44,6 +44,7 @@
 /**/websql
 /analytics
 /api-workers
+/baseline
 /browser
 /BUILD-INFO.md
 /BUILD-STATUS.md
