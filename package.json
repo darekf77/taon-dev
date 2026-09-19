@@ -1,7 +1,9 @@
 {
   "name": "taon-dev",
   "version": "21.0.24",
-  "scripts": {},
+  "scripts": {
+    "activate": "taon pull:deep && cd tnp && taon sync && taon link:global && taon bl"
+  },
   "author": "Dariusz Filipiak",
   "dependencies": {
     "7zip-bin": "~5.2.0",
