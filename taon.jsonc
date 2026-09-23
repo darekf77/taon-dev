@@ -24,6 +24,7 @@
     "@taon-dev/session",
     "@taon-dev/cloud",
     "tnp",
+    "@taon-dev/sudo",
     "@taon-dev/core-docs",
     "@taon-dev/emails",
     "@taon-dev/vscode-plugin",
