@@ -111,6 +111,11 @@
       "relativeClonePath": "static-columns"
     },
     {
+      "repoUrl": "https://github.com/taon-dev/sudo.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "sudo"
+    },
+    {
       "repoUrl": "https://github.com/darekf77/taon.git",
       "defaultBranch": "master",
       "relativeClonePath": "taon"
@@ -146,6 +151,11 @@
       "relativeClonePath": "taon-ui"
     },
     {
+      "repoUrl": "https://github.com/taon-dev/testbench.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "testbench"
+    },
+    {
       "repoUrl": "https://github.com/darekf77/tnp.git",
       "defaultBranch": "master",
       "relativeClonePath": "tnp"
@@ -179,11 +189,6 @@
       "repoUrl": "https://github.com/taon-dev/vscode-plugin.git",
       "defaultBranch": "master",
       "relativeClonePath": "vscode-plugin"
-    },
-    {
-      "defaultBranch": "master",
-      "relativeClonePath": "sudo",
-      "repoUrl": "https://github.com/taon-dev/sudo.git"
     }
   ]
 }
