@@ -33,6 +33,7 @@
     "@taon-dev/cms",
     "@taon-dev/analytics",
     "@taon-dev/baseline",
+    "@taon-dev/testbench",
   ],
 
   "removeAfterPullingFromGit": [
