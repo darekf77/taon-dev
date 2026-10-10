@@ -71,6 +71,11 @@
       "relativeClonePath": "magic-renamer"
     },
     {
+      "repoUrl": "https://github.com/taon-dev/marketing.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "marketing"
+    },
+    {
       "repoUrl": "https://github.com/darekf77/ng-talkback.git",
       "defaultBranch": "master",
       "relativeClonePath": "ng-talkback"
@@ -99,6 +104,11 @@
       "repoUrl": "https://github.com/darekf77/record-replay-req-res-scenario.git",
       "defaultBranch": "master",
       "relativeClonePath": "record-replay-req-res-scenario"
+    },
+    {
+      "repoUrl": "https://github.com/taon-dev/seo.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "seo"
     },
     {
       "repoUrl": "https://github.com/taon-dev/session.git",

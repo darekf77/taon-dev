@@ -105,6 +105,8 @@
 /lodash-walk-object.worktrees
 /magic-renamer
 /magic-renamer.worktrees
+/marketing
+/marketing.worktrees
 /ng-talkback
 /ng-talkback.worktrees
 /ng2-logger
@@ -124,6 +126,8 @@
 /record-replay-req-res-scenario.worktrees
 /routes/*.rest
 /run.js
+/seo
+/seo.worktrees
 /session
 /session.worktrees
 /speed-measure-plugin*.json
