@@ -36,6 +36,10 @@
     "@taon-dev/marketing",
     "@taon-dev/baseline",
     "@taon-dev/testbench",
+    "ng-talkback",
+    "record-replay-req-res-scenario",
+    "ng2-rest-swagger-generator",
+    "vpn-split"
   ],
 
   "removeAfterPullingFromGit": [
