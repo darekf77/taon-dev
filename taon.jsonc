@@ -39,7 +39,7 @@
     "ng-talkback",
     "record-replay-req-res-scenario",
     "ng2-rest-swagger-generator",
-    "vpn-split"
+    "vpn-split",
   ],
 
   "removeAfterPullingFromGit": [
@@ -47,6 +47,11 @@
     "tnp-models",
     "json10-writer",
     "taon-electron-app",
+    "node-cli-tester",
+    "record-replay-req-res-scenario",
+    "ng-talkback",
+    "vpn-split",
+    "ng2-rest-swagger-generator",
   ],
 
   "resources": [],

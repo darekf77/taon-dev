@@ -76,11 +76,6 @@
       "relativeClonePath": "marketing"
     },
     {
-      "repoUrl": "https://github.com/darekf77/ng-talkback.git",
-      "defaultBranch": "master",
-      "relativeClonePath": "ng-talkback"
-    },
-    {
       "repoUrl": "https://github.com/darekf77/ng2-logger.git",
       "defaultBranch": "master",
       "relativeClonePath": "ng2-logger"
@@ -89,21 +84,6 @@
       "repoUrl": "https://github.com/darekf77/ng2-rest.git",
       "defaultBranch": "master",
       "relativeClonePath": "ng2-rest"
-    },
-    {
-      "repoUrl": "https://github.com/darekf77/ng2-rest-swagger-generator.git",
-      "defaultBranch": "master",
-      "relativeClonePath": "ng2-rest-swagger-generator"
-    },
-    {
-      "repoUrl": "https://github.com/darekf77/node-cli-tester.git",
-      "defaultBranch": "master",
-      "relativeClonePath": "node-cli-tester"
-    },
-    {
-      "repoUrl": "https://github.com/darekf77/record-replay-req-res-scenario.git",
-      "defaultBranch": "master",
-      "relativeClonePath": "record-replay-req-res-scenario"
     },
     {
       "repoUrl": "https://github.com/taon-dev/seo.git",
@@ -189,11 +169,6 @@
       "repoUrl": "https://github.com/taon-dev/ui.git",
       "defaultBranch": "master",
       "relativeClonePath": "ui"
-    },
-    {
-      "repoUrl": "https://github.com/darekf77/vpn-split.git",
-      "defaultBranch": "master",
-      "relativeClonePath": "vpn-split"
     },
     {
       "repoUrl": "https://github.com/taon-dev/vscode-plugin.git",
