@@ -112,6 +112,8 @@
 /ng2-rest
 /ng2-rest.worktrees
 /node_modules
+/node-cli-tester
+/node-cli-tester.worktrees
 /npm-debug.log
 /npm-debug.log*
 /package-lock.json
@@ -171,6 +173,8 @@
 /ui.worktrees
 /update-vscode-package-json.js
 /vitest.config.ts
+/vpn-split
+/vpn-split.worktrees
 /vscode-plugin
 /vscode-plugin.worktrees
 /webpack*

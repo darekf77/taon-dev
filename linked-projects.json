@@ -6,6 +6,11 @@
       "relativeClonePath": "analytics"
     },
     {
+      "repoUrl": "https://github.com/darekf77/vpn-split.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "vpn-split"
+    },
+    {
       "repoUrl": "https://github.com/taon-dev/api-workers.git",
       "defaultBranch": "master",
       "relativeClonePath": "api-workers"
@@ -14,6 +19,11 @@
       "repoUrl": "https://github.com/taon-dev/baseline.git",
       "defaultBranch": "master",
       "relativeClonePath": "baseline"
+    },
+    {
+      "repoUrl": "https://github.com/darekf77/node-cli-tester.git",
+      "defaultBranch": "master",
+      "relativeClonePath": "node-cli-tester"
     },
     {
       "repoUrl": "https://github.com/taon-dev/cloud.git",
