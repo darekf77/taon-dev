@@ -199,7 +199,7 @@
     },
     {
       "fileMatch": ["/taon.jsonc"],
-      "url": "./taon-config-container.schema.json"
+      "url": "./taon-config.schema.json"
     }
   ],
 
