@@ -1,6 +1,7 @@
 /_changelog
 /!templates-subprojects/**/package.json
 /.ai
+/.ai/examples
 /.babelrc
 /.DS_Store
 /.editorconfig
@@ -55,6 +56,9 @@
 /i18n.worktrees
 /incremental-compiler
 /incremental-compiler.worktrees
+/index.d.ts
+/index.js
+/index.js.map
 /isomorphic-region-loader
 /isomorphic-region-loader.worktrees
 /json10
@@ -66,6 +70,8 @@
 /lodash-walk-object.worktrees
 /magic-renamer
 /magic-renamer.worktrees
+/manager
+/manager.worktrees
 /marketing
 /marketing.worktrees
 /ng2-logger
@@ -79,6 +85,7 @@
 /npm-debug.log*
 /package.json
 /protractor.conf.js
+/run.js
 /seo
 /seo.worktrees
 /session
@@ -127,6 +134,11 @@
 /typescript-class-helpers.worktrees
 /ui
 /ui.worktrees
+/update-vscode-package-json.js
+/vitest-angular-resources.plugin.ts
+/vitest.config-backend.ts
+/vitest.config-browser.ts
+/vitest.setup-browser.ts
 /vpn-split
 /vpn-split.worktrees
 /vscode-plugin

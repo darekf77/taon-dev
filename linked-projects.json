@@ -184,6 +184,11 @@
       "repoUrl": "https://github.com/taon-dev/vscode-plugin.git",
       "defaultBranch": "master",
       "relativeClonePath": "vscode-plugin"
+    },
+    {
+      "defaultBranch": "master",
+      "relativeClonePath": "manager",
+      "repoUrl": "https://github.com/taon-dev/manager.git",
     }
   ]
 }
