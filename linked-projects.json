@@ -188,7 +188,7 @@
     {
       "defaultBranch": "master",
       "relativeClonePath": "manager",
-      "repoUrl": "https://github.com/taon-dev/manager.git",
+      "repoUrl": "https://github.com/taon-dev/manager.git"
     }
   ]
 }
