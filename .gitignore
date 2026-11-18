@@ -24,6 +24,7 @@
 /*.rest
 /*.sqlite
 /**/.DS_Store
+/**/tmp-*
 /AGENTS.md
 /analytics
 /analytics.worktrees
