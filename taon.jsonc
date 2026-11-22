@@ -36,6 +36,7 @@
     "@taon-dev/marketing",
     "@taon-dev/baseline",
     "@taon-dev/manager",
+    "baseline-docs",
     "@taon-dev/testbench",
     "ng-talkback",
     "record-replay-req-res-scenario",
