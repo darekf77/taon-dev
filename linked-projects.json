@@ -193,12 +193,12 @@
     {
       "defaultBranch": "master",
       "relativeClonePath": "docs",
-      "repoUrl": "git@github.com:darekf77/docs.git"
+      "repoUrl": "https://github.com/taon-dev/docs.git"
     },
     {
       "defaultBranch": "master",
       "relativeClonePath": "baseline-docs",
-      "repoUrl": "git@github.com:darekf77/baseline-docs.git"
+      "repoUrl": "https://github.com/taon-dev/baseline-docs.git"
     }
   ]
 }
