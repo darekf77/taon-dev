@@ -106,7 +106,14 @@
     "vitest.config-browser.ts": true,
     "vitest.config-backend.ts": true,
     "vitest.setup-browser.ts": true,
-    "vitest-angular-resources.plugin.ts": true
+    "vitest-angular-resources.plugin.ts": true,
+    "**/tmp-*": true,
+    "**/dist*": true,
+    "**/dist-*": true,
+    "**/tmp*": true,
+    "**/tsconfig*": true,
+    "docs.worktrees": true,
+    "baseline-docs.worktrees": true
   },
 
   "search.exclude": {

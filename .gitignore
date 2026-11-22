@@ -24,6 +24,11 @@
 /*.rest
 /*.sqlite
 /**/.DS_Store
+/**/dist-*
+/**/dist*
+/**/tmp-*
+/**/tmp*
+/**/tsconfig*
 /AGENTS.md
 /analytics
 /analytics.worktrees
@@ -31,6 +36,8 @@
 /api-workers
 /api-workers.worktrees
 /baseline
+/baseline-docs
+/baseline-docs.worktrees
 /baseline.worktrees
 /browser
 /chrome-profiler-events*.json
@@ -45,6 +52,8 @@
 /dist
 /dist-*
 /dist*
+/docs
+/docs.worktrees
 /e-commerce
 /e-commerce.worktrees
 /emails

@@ -189,6 +189,16 @@
       "defaultBranch": "master",
       "relativeClonePath": "manager",
       "repoUrl": "https://github.com/taon-dev/manager.git"
+    },
+    {
+      "defaultBranch": "master",
+      "relativeClonePath": "docs",
+      "repoUrl": "git@github.com:darekf77/docs.git"
+    },
+    {
+      "defaultBranch": "master",
+      "relativeClonePath": "baseline-docs",
+      "repoUrl": "git@github.com:darekf77/baseline-docs.git"
     }
   ]
 }
