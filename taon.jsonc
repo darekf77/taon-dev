@@ -38,6 +38,7 @@
     "@taon-dev/manager",
     "baseline-docs",
     "@taon-dev/testbench",
+    "@taon-dev/docs",
     "ng-talkback",
     "record-replay-req-res-scenario",
     "ng2-rest-swagger-generator",
