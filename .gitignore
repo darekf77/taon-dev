@@ -41,6 +41,8 @@
 /baseline.worktrees
 /browser
 /chrome-profiler-events*.json
+/client-projects
+/client-projects.worktrees
 /cloud
 /cloud.worktrees
 /cms
@@ -83,6 +85,8 @@
 /manager.worktrees
 /marketing
 /marketing.worktrees
+/messenger
+/messenger.worktrees
 /ng2-logger
 /ng2-logger.worktrees
 /ng2-rest

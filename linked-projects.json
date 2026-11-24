@@ -199,6 +199,16 @@
       "defaultBranch": "master",
       "relativeClonePath": "baseline-docs",
       "repoUrl": "https://github.com/taon-dev/baseline-docs.git"
+    },
+    {
+      "defaultBranch": "master",
+      "relativeClonePath": "messenger",
+      "repoUrl": "git@github.com:darekf77/messenger.git"
+    },
+    {
+      "defaultBranch": "master",
+      "relativeClonePath": "client-projects",
+      "repoUrl": "git@github.com:darekf77/client-projects.git"
     }
   ]
 }
