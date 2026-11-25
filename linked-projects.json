@@ -203,12 +203,12 @@
     {
       "defaultBranch": "master",
       "relativeClonePath": "messenger",
-      "repoUrl": "git@github.com:darekf77/messenger.git"
+      "repoUrl": "git@github.com:taon-dev/messenger.git"
     },
     {
       "defaultBranch": "master",
       "relativeClonePath": "client-projects",
-      "repoUrl": "git@github.com:darekf77/client-projects.git"
+      "repoUrl": "git@github.com:taon-dev/client-projects.git"
     }
   ]
 }
